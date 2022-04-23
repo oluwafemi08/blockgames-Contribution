@@ -1,4 +1,4 @@
-# blockgames-Contribution
+# Blockgames-Contribution
 
 My contriutions during block games internship
 TASK ONE
