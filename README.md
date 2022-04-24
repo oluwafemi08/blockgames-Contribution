@@ -1,8 +1,9 @@
 # Blockgames-Contribution
 
 My contriutions during block games internship
+
 TASK ONE
-* Was unavaialble to contribute
+* Was unavailable to contribute
 
 TASK TWO
 * wrote the unit test https://github.com/oluwafemi08/NestCoinLibrary/compare/master?expand=1
